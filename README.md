@@ -16,9 +16,7 @@
 ---
 
 ## 🏆 Projetos em destaque
-- [Code-Challenges](https://github.com/DraxOutz/Code-Challenges) – Soluções de desafios de programação em Lua e Python.  
-- [Bot-Discord](link-do-repo) – Bot para Discord com comandos automáticos e integração com APIs.  
-- [Mini-Jogo-Pygame](link-do-repo) – Pequeno jogo desenvolvido em Python com Pygame.
+- [Meu Jogo Roblox]([https://www.roblox.com/games/123456789/Nome-do-Jogo](https://www.roblox.com/pt/games/90489235925116/UPDATE-Krush-PvP)) – Mini-jogo criado em Lua no Roblox
 
 ---
 
