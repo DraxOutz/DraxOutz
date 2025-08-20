@@ -29,6 +29,9 @@
 ---
 
 ## 📚 Certificados
+[Ambientes Computacionais](https://drive.google.com/file/d/1JaftWROhe-2DEkHRNqSL2wUCZTQDsPLs/view?usp=sharing)
+[Sistemas Computacionais](https://drive.google.com/file/d/12r2QbABKpEqDkWOiyPOJlG4Hch-xx9Qo/view?usp=sharing)
+[Certificado de Python](https://drive.google.com/file/d/1_U0eAcAcLxgtv3InrfsNQ3nL4AQ-YFEr/view?usp=sharing)
 
 ---
 
