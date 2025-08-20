@@ -16,7 +16,8 @@
 ---
 
 ## 🏆 Projetos em destaque
-- [Meu Jogo Roblox]([https://www.roblox.com/games/123456789/Nome-do-Jogo](https://www.roblox.com/pt/games/90489235925116/UPDATE-Krush-PvP)) – Mini-jogo criado em Lua no Roblox
+-[Meu Jogo Roblox](https://www.roblox.com/pt/games/90489235925116/UPDATE-Krush-PvP) – Mini-jogo criado em Lua no Roblox
+
 
 ---
 
