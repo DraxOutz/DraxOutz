@@ -1,17 +1,17 @@
 # 👋 Olá, eu sou Ryan “DraxOutz” Rocha
 
-💻 Desenvolvedor júnior | Lua & Python | Automação, jogos e scripts criativos  
+💻 Desenvolvedor júnior | Lua, Java & Python | Automação, jogos e scripts criativos.
 
 ---
 
 ## ⚡ Tecnologias & Linguagens
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/-Lua-000080?style=flat&logo=lua&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 
 ---
 
 ## 🏆 Projetos em destaque
-- [Code-Challenges](link-do-repo) – Repositório com soluções de desafios de programação
 - [OutroProjeto] – Breve descrição do projeto com link
 
 ---
@@ -22,6 +22,4 @@
 ---
 
 ## 📫 Contato
-- Discord: DraxOutz#1234
-- E-mail: seuemail@email.com
-- LinkedIn: link-do-linkedin
+- Discord: DraxOutz
