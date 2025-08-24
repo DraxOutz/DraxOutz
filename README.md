@@ -20,7 +20,7 @@
 - [Krush PVP](https://www.roblox.com/pt/games/90489235925116/UPDATE-Krush-PvP) – Jogo PVP em Lua no Roblox
 - [Anime Heroes](https://www.roblox.com/pt/games/8140820363/UPDATE-3-Anime-Heroes) – Jogo anime criado em Lua no Roblox
 
-## 💻 Repositórios de Demonstração=
+## 💻 Repositórios de Demonstração
 - [Python](https://github.com/DraxOutz/Python-Demo-Projects) – Codificação em Python
 
 ## 🎮 Game Design / Head Developer
