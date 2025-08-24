@@ -19,7 +19,13 @@
 - [Krush PVP](https://www.roblox.com/pt/games/90489235925116/UPDATE-Krush-PvP) – Jogo PVP em Lua no Roblox
 - [Anime Heroes](https://www.roblox.com/pt/games/8140820363/UPDATE-3-Anime-Heroes) – Jogo anime criado em Lua no Roblox
 
-
+## 🎮 Game Design / Head Developer
+- **Função:** Game Designer / Head Developer
+- **Responsabilidades:** Criação do mundo do jogo, estrutura central do projeto, definição de mecânicas, mapas, sistemas de inventário e economia.
+- **Projetos:** 
+  - Krush PVP – Estrutura completa do mundo, mecânicas PVP e organização do projeto.
+  - Anime Heroes – Criação do mundo, definição de regras e mecânicas de gameplay.
+    
 ---
 
 ## 📊 Estatísticas
