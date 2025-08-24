@@ -17,11 +17,12 @@
 ---
 
 ## 🏆 Projetos em destaque
-- [Krush PVP](https://www.roblox.com/pt/games/90489235925116/UPDATE-Krush-PvP) – Jogo PVP em Lua no Roblox
-- [Anime Heroes](https://www.roblox.com/pt/games/8140820363/UPDATE-3-Anime-Heroes) – Jogo anime criado em Lua no Roblox
+- [Krush PVP](https://www.roblox.com/pt/games/90489235925116/UPDATE-Krush-PvP) – Jogo PVP em Lua no Roblox.
+- [Anime Heroes](https://www.roblox.com/pt/games/8140820363/UPDATE-3-Anime-Heroes) – Jogo anime criado em Lua no Roblox.
 
 ## 💻 Repositórios de Demonstração
-- [Python](https://github.com/DraxOutz/Python-Demo-Projects) – Codificação em Python
+- [Python](https://github.com/DraxOutz/Python-Demo-Projects) – Codificação em Python.
+- [Lua](https://github.com/DraxOutz/Lua-Demo-Projects) – Codificação em Lua.
 
 ## 🎮 Game Design / Head Developer
 - **Função:** Game Designer / Head Developer
