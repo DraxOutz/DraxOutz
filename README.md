@@ -10,8 +10,8 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 
 - Lua: 🟢🟢🟢🟢 (há 7 anos)  
-- Python: 🟢 (há 1 mês)  
-- Java: 🟢 (básico)
+- Python: 🟢 (há 2 mêses)  
+- Java: 🟢 (há 1 mês)
 
 ---
 
