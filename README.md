@@ -1,6 +1,7 @@
 # 👋 Olá, eu sou Ryan Rocha, mais conhecido como DraxOutz
 
-💻 Desenvolvedor júnior | Lua, Java & Python | Automação, jogos e scripts criativos  
+💻 Desenvolvedor júnior | Lua, Java & Python | Automação, jogos e scripts criativos.
+🎓 Cursando Ciência da Computação na Universidade São Judas.
 
 ---
 
