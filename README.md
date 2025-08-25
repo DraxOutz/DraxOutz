@@ -23,6 +23,7 @@
 ## 💻 Repositórios de Demonstração
 - [Python](https://github.com/DraxOutz/Python-Demo-Projects) – Codificação em Python.
 - [Lua](https://github.com/DraxOutz/Lua-Demo-Projects) – Codificação em Lua.
+- [Java](https://github.com/DraxOutz/Java-Demo-Projects) – Codificação em Java.
 
 ## 🎮 Game Design / Head Developer
 - **Função:** Game Designer / Head Developer
