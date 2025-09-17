@@ -19,7 +19,6 @@
 ## 🏆 Projetos em destaque
 - [Krush PVP](https://www.roblox.com/pt/games/90489235925116/UPDATE-Krush-PvP) – Jogo PVP em Lua no Roblox.
 - [Anime Heroes](https://www.roblox.com/pt/games/8140820363/UPDATE-3-Anime-Heroes) – Jogo anime criado em Lua no Roblox.
-- [Maze Bank](https://github.com/DraxOutz/Maze-Bank) – Plataforma virtual de banco.
   
 
 ## 💻 Repositórios de Demonstração
