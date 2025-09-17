@@ -9,6 +9,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/-Lua-000080?style=flat&logo=lua&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-007396?style=flat&logo=java&logoColor=white)
 
 - Lua: 🟢🟢🟢🟢 (há 9 anos)  
 - Python: 🟢 (há 2 mêses)  
