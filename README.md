@@ -14,7 +14,8 @@
 - Lua: 🟢🟢🟢🟢 (há 9 anos)  
 - Python: 🟢 (há 2 mêses)  
 - Java: 🟢 (há 1 mês)
-
+- PHP: 🟢 (há 1 mês)
+  
 ---
 
 ## 🏆 Projetos em destaque
@@ -26,6 +27,7 @@
 - [Python](https://github.com/DraxOutz/Python-Demo-Projects) – Codificação em Python.
 - [Lua](https://github.com/DraxOutz/Lua-Demo-Projects) – Codificação em Lua.
 - [Java](https://github.com/DraxOutz/Java-Demo-Projects) – Codificação em Java.
+- [PHP](https://github.com/DraxOutz/PHP-Demo-Projects) – Codificação em PHP.
 
 ## 🎮 Game Design / Head Developer
 - **Função:** Game Designer / Head Developer
