@@ -31,7 +31,7 @@
 - [Lua](https://github.com/DraxOutz/Lua-Demo-Projects) – Codificação em Lua.
 - [Java](https://github.com/DraxOutz/Java-Demo-Projects) – Codificação em Java.
 - [PHP](https://github.com/DraxOutz/PHP-Demo-Projects) – Codificação em PHP.
-- [Documentos] (https://github.com/DraxOutz/Knowledge-Base) - Documentos sobre conhecimentos.
+- [Documentos](https://github.com/DraxOutz/Knowledge-Base) - Documentos sobre conhecimentos.
 
 ## 🎮 Game Design / Head Developer
 - **Função:** Game Designer / Head Developer
