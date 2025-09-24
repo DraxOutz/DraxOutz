@@ -19,6 +19,7 @@
 ---
 
 ## 🏆 Projetos em destaque
+# Lua
 - [Krush PVP](https://www.roblox.com/pt/games/90489235925116/UPDATE-Krush-PvP) – Jogo PVP em Lua no Roblox.
 - [Anime Heroes](https://www.roblox.com/pt/games/8140820363/UPDATE-3-Anime-Heroes) – Jogo anime criado em Lua no Roblox.
 - [Tempesta RP](https://www.roblox.com/pt/games/6562559095/Tempesta-RP-BETA) – Jogo de mundo aberto criado em Lua no Roblox. 
