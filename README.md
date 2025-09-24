@@ -12,8 +12,8 @@
 ![PHP](https://img.shields.io/badge/-PHP-007396?style=flat&logo=java&logoColor=white)
 
 - Lua: 🟢🟢🟢🟢 (há 9 anos)  
-- Python: 🟢 (há 2 mêses)  
-- Java: 🟢 (há 1 mês)
+- Python: 🟢🟢 (há 2 mêses)  
+- Java: 🟢🟢 (há 1 mês)
 - PHP: 🟢 (há 1 mês)
   
 ---
