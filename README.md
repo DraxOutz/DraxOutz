@@ -13,7 +13,7 @@
 
 - Lua: 🟢🟢🟢🟢 (há 9 anos)  
 - Python: 🟢🟢 (há 2 mêses)  
-- Java: 🟢🟢 (há 1 mês)
+- Java: 🟢🟢 (há 2 mês)
 - PHP: 🟢 (há 1 mês)
   
 ---
@@ -24,7 +24,7 @@
 - [Anime Heroes](https://www.roblox.com/pt/games/8140820363/UPDATE-3-Anime-Heroes) – Jogo anime criado em Lua no Roblox.
 - [Tempesta RP](https://www.roblox.com/pt/games/6562559095/Tempesta-RP-BETA) – Jogo de mundo aberto criado em Lua no Roblox. 
 ### Java
-- [Hexa Warden](https://github.com/DraxOutz/Software-A3) – Software de IA para projeto A3 da faculdade USJT (em progresso). 
+- [Hexa Warden](https://github.com/DraxOutz/Software-A3) – Software de IA para projeto A3 da faculdade USJT. 
 
 ## 💻 Repositórios de Demonstração
 - [Python](https://github.com/DraxOutz/Python-Demo-Projects) – Codificação em Python.
