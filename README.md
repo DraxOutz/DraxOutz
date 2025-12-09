@@ -26,7 +26,10 @@ networking and performance.
 
 ## 📂 Repositories
 
-**Lua Game Systems**  
+- **Lua Game Systems**  
 https://github.com/DraxOutz/roblox-best-practices
+
+- **Java Projects**  
+  https://github.com/DraxOutz/Java-Demo-Projects  
 
 ---
