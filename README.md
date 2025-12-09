@@ -33,3 +33,6 @@ https://github.com/DraxOutz/roblox-best-practices
   https://github.com/DraxOutz/Java-Demo-Projects  
 
 ---
+
+## 📫 Contact
+- Discord: https://discord.com/users/DraxOutz  
