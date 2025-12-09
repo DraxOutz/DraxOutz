@@ -1,38 +1,39 @@
 # 👋 Hi, I'm Ryan Rocha (aka DraxOutz)
 
-🎮 Game Systems Developer focused on **Roblox / Lua**  
-🎓 Computer Science student at **Universidade São Judas Tadeu**
+🎮 **Game Systems Developer** specializing in **Roblox / Lua**  
+🎓 Computer Science student at **São Judas Tadeu University (Brazil)**
 
-I have **9+ years of experience with Lua**, building scalable systems for
-multiplayer games, focusing on clean architecture, modularization,
-networking and performance.
-
----
-
-## 🛠 Technologies & Languages
-- **Lua (Roblox)** — advanced game systems, architecture, networking (9+ years)
-- **Java** — object-oriented and academic projects
+I have over **9 years of experience with Lua**, building scalable and maintainable
+systems for multiplayer games. My work focuses on clean architecture,
+modular design, client–server communication and performance optimization.
 
 ---
 
-## 🧠 Technical Focus
-- Modular architectures for large-scale games  
-- Event-driven systems  
-- Client–server communication  
-- Data handling and persistence  
-- Clean, readable and maintainable code
+## 🛠 Core Technologies
+- **Lua (Roblox)** — game systems, networking, scalable architectures (9+ years)
+- **Java** — object-oriented programming and academic projects
 
 ---
 
-## 📂 Repositories
+## 🧠 Technical Expertise
+- Modular and scalable game architectures  
+- Event-driven design  
+- Client–server communication (RemoteEvents / RemoteFunctions)  
+- Data persistence and state management  
+- Clean, readable and maintainable codebases  
 
-- **Lua Game Systems**  
-https://github.com/DraxOutz/roblox-best-practices
+---
+
+## 🚀 Selected Projects
+- **Roblox Game Systems & Best Practices**  
+  Modular game systems and architectural patterns for Roblox projects.  
+  https://github.com/DraxOutz/roblox-best-practices
 
 - **Java Projects**  
-  https://github.com/DraxOutz/Java-Demo-Projects  
+  Academic and object-oriented software projects.  
+  https://github.com/DraxOutz/Java-Demo-Projects
 
 ---
 
 ## 📫 Contact
-- Discord: https://discord.com/users/DraxOutz  
+- Discord: https://discord.com/users/DraxOutz
